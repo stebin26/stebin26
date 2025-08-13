@@ -4,7 +4,7 @@
 
 ### 🚀 From Marketing Mind to Code Craftsman
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=const+passion+%3D+%22building+solutions%22%3B;B.Tech+%E2%86%92+Developer;Self-taught+%7C+Startup+Ready;MERN+Stack+Developer;One+line+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=const+passion+%3D+%22building+solutions%22%3B;B.Tech+%E2%86%92+EEE;Autodidact+%7C+Data Scientist;Startup+Ready;One+line+at+a+time" alt="Typing SVG" />
 
 </div>
 
@@ -12,10 +12,10 @@
 
 ## 💫 *My Transformation Journey*
 javascript
-const rohith = {
-  background: "MBA Graduate + 2 Years Marketing",
+const stebin = {
+  background: "B.Tech [EEE], Data Scientist",
   transformation: "1 Year intensive self-learning",
-  current_status: "Full-Stack Developer",
+  current_status: "I'm Autodidact Data Scientist",
   goal: "Join an innovative startup team",
   mindset: "Growth-oriented, Challenge-seeker"
 }
@@ -42,12 +42,12 @@ const rohith = {
 <div align="center">
 
 ### 🏋‍♂ *GYM BUDDY - E-commerce Platform*
-Complete MERN Stack Fitness Equipment Store
+Complete Stock_Trade_Prediction_Model
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](your-demo-link)
 [![Source Code](https://img.shields.io/badge/Source%20Code-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](your-repo-link)
 
-*✨ Features:* User Authentication • Responsive Design • Real-world Functionality • Payment Integration
+*✨ Features:* Swing Trading • Strategical Calculations • Real-world Functionality • Based on OHCL
 
 </div>
 
@@ -65,7 +65,7 @@ Marketing background + coding skills = unique problem-solving approach
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"><br>
 <b>📈 Proven Learner</b><br>
-Self-taught developer with real project experience & freelance work
+Self-taught Data Scientist with real project experience & freelance work
 </td>
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80"><br>
