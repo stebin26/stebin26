@@ -1,124 +1,29 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm STEBIN</h1>
+<h3 align="center">From Self-Learning to Solving Real-World Data Challenges</h3>
 
-# Hi there, I'm STEBIN! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stebin26&label=Profile%20views&color=0e75b6&style=flat" alt="stebin26" /> </p>
 
-### 🚀 From Marketing Mind to Code Craftsman
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stebin26" alt="stebin26" /></a> </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=const+passion+%3D+%22building+solutions%22%3B;B.Tech+%E2%86%92+EEE;Autodidact+%7C+Data Scientist;Startup+Ready;One+line+at+a+time" alt="Typing SVG" />
+<p align="left"> <a href="https://twitter.com/stebin" target="blank"><img src="https://img.shields.io/twitter/follow/stebin?logo=twitter&style=for-the-badge" alt="stebin" /></a> </p>
 
-</div>
+- 🔭 I’m currently working on [Stock_Predict_Model](https://github.com/stebin26/Stock_Predict_F1_Phase)
 
----
+- 🌱 I’m currently learning **MLOps,Data Engineering pipelines,Advanced Machine Learning & Deep Learning concepts (Transformers, LoRA, Fine-tuning)**
 
-## 💫 *My Transformation Journey*
-javascript
-const stebin = {
-  background: "B.Tech [EEE], Data Scientist",
-  transformation: "1 Year intensive self-learning",
-  current_status: "I'm Autodidact Data Scientist",
-  goal: "Join an innovative startup team",
-  mindset: "Growth-oriented, Challenge-seeker"
-}
+- ⚡ Fun fact **!Find it out**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/stebin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stebin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/stebin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stebin" height="30" width="40" /></a>
+</p>
 
-<div align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-## 🛠 *Tech Arsenal*
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stebin26&show_icons=true&locale=en&layout=compact" alt="stebin26" /></p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stebin26&show_icons=true&locale=en" alt="stebin26" /></p>
 
-</div>
-
----
-
-## 🏆 *Featured Project*
-
-<div align="center">
-
-### 🏋‍♂ *GYM BUDDY - E-commerce Platform*
-Complete Stock_Trade_Prediction_Model
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](your-demo-link)
-[![Source Code](https://img.shields.io/badge/Source%20Code-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](your-repo-link)
-
-*✨ Features:* Swing Trading • Strategical Calculations • Real-world Functionality • Based on OHCL
-
-</div>
-
----
-
-## ⚡ *Why I'm Your Next Great Hire*
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80"><br>
-<b>🧠 Fresh Perspective</b><br>
-Marketing background + coding skills = unique problem-solving approach
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"><br>
-<b>📈 Proven Learner</b><br>
-Self-taught Data Scientist with real project experience & freelance work
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80"><br>
-<b>🚀 Startup Ready</b><br>
-Thrives in fast-paced, challenging environments
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🎯 *Currently Seeking*
-
-*My first IT role* in a dynamic startup where I can:
- ✅ Contribute from day one
- ✅ Learn from experienced developers  
- ✅ Face new challenges daily
- ✅ Grow with an innovative team
-
-<br>
-
-### 📊 *GitHub Stats*
-
-<img src="https://github-readme-stats.vercel.app/api?username=rohithk-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rohithk-codes&theme=tokyonight&hide_border=true" alt="streak"/>
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithk-codes&layout=compact&theme=tokyonight&hide_border=true" alt="languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 *Let's Connect & Build Something Amazing!*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithkrishnan997@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](your-portfolio-link)
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Ready to bring fresh energy and perspective to your development team!</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50">
-
-</div>
-
----
-
-<div align="center">
-
-### "Code is poetry written in logic, and I'm here to write the next chapter." 
-
-<img src="https://komarev.com/ghpvc/?username=rohithk-codes&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stebin26&" alt="stebin26" /></p>
