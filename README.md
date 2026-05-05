@@ -33,7 +33,7 @@ Python | SQL | Git | Linux | Pandas | NumPy | Scikit-learn | PyTorch
 ---
 
 ## Connect With Me
-- LinkedIn: https://linkedin.com/in/STEBIN 
+- LinkedIn: https://linkedin.com/in/stebin-pb 
 - Twitter: https://x.com/home 
 
 ---
